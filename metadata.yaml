@@ -1,0 +1,32 @@
+_repo: La-sesta-crociata-ovvero-l-istoria-della-santa-vita-e-delle-grandi-cavallerie-di-re-Luigi-IX-__67708
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Galvani, Giovanni
+    gutenberg_agent_id: '54411'
+    url: http://www.gutenberg.org/2009/agents/54411
+creator:
+  author:
+    agent_name: Joinville, Jean de
+    gutenberg_agent_id: '54410'
+    url: http://www.gutenberg.org/2009/agents/54410
+description: ''
+gutenberg_issued: '2022-03-25'
+identifiers:
+  gutenberg: '67708'
+language: it
+pgterms:marc904: https://archive.org/details/bub_gb_OlsMAAAAYAAJ/page/n5/mode/2up
+pgterms:marc905: 20210104082608joinville
+pgterms:marc906: '1872'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by The Internet Archive)
+publication_note: Italy :Romagnoli,1872.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'La sesta crociata: ovvero l''istoria della santa vita e delle grandi cavallerie
+  di re Luigi IX di Francia'
+url: http://www.gutenberg.org/ebooks/67708
