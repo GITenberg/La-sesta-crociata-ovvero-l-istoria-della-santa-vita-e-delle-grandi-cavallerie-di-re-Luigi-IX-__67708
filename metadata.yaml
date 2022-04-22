@@ -5,12 +5,17 @@ contributor:
     agent_name: Galvani, Giovanni
     gutenberg_agent_id: '54411'
     url: http://www.gutenberg.org/2009/agents/54411
+covers:
+- cover_type: archival
+  image_path: 67708-h/images/cover.jpg
 creator:
   author:
     agent_name: Joinville, Jean de
     gutenberg_agent_id: '54410'
     url: http://www.gutenberg.org/2009/agents/54410
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67708#La-sesta-crociata-ovvero-l-istoria-della-santa-vita-e-delle-grandi-cavallerie-di-re-Luigi-IX-_
 gutenberg_issued: '2022-03-25'
 identifiers:
   gutenberg: '67708'
